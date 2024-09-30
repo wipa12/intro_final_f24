@@ -28,8 +28,6 @@
             <a href="https://www.linkedin.com/in/patrick-walters-631bb529/" target="_blank" class="link-btn">LinkedIn</a>
         </div>
     </div>
-    <script>
-       alert("Hello World, I'm a Developer");
-   </script>
+
 </body>
 </html>
